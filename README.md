@@ -165,3 +165,4 @@ You'll encounter a lot of these weird data type behaviors throughout your JavaSc
 - [Destroy All Software — Wat][Wat]
 
 [Wat]: https://www.destroyallsoftware.com/talks/wat
+<p data-visibility='hidden'>PHRG JavaScript Data Types</p>

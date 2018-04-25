@@ -8,3 +8,5 @@ languages:
   - javascript
 resources:
   - 3
+
+parent_template: git@github.com:learn-co-curriculum/js-basics-data-types-readme.git
